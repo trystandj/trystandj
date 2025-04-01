@@ -13,5 +13,6 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat&logo=mysql)
 
 ## 📫 Contact Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)]([your-linkedin-url](https://www.linkedin.com/in/trystan-jones-1554a92ba/))
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)]([https://github.com/your-username](https://github.com/trystandj))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/trystan-jones-1554a92ba/)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/trystandj)
+

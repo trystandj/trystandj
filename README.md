@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hey, I'm Trystan ⭐
 
-<!--
-**trystandj/trystandj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🎓 I'm a software development student working on a food management website.
+- 🌱 Learning JavaScript, React, and backend development.
+- 💡 Passionate about building useful software.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js)
+![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat&logo=mysql)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](your-linkedin-url)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/your-username)

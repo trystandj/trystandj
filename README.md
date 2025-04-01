@@ -25,3 +25,6 @@
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trystandj&layout=compact&theme=radical" alt="Top Languages" width="48%" />
 </div>
+
+## 💡 Quote on Learning
+> "The beautiful thing about learning is that nobody can take it away from you." – B.B. King

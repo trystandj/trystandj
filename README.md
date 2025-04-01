@@ -1,7 +1,8 @@
 ## Hey, I'm Trystan ⭐
 
-## 🚀 About Me
-- 🎓 I'm a software development student working on a food management website.
+### 🚀 About Me
+- 🎓 I'm a software development student working on a Bachelors in Software Development.
+-  I love to learn and grow. I'm always seeking on how to improve and create amazing things.
 - 🌱 Learning JavaScript, React, and backend development.
 - 💡 Passionate about building useful software.
 
